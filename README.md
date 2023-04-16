@@ -2,7 +2,9 @@
 
 ## _Gerich Restaurant_
 
-![Imagen de la parte header de la pagina.](https://github.com/AgredaLuis/React-rickAndMorty-api/blob/main/src/assets/Foto-de-Header.png)
+![Imagen de la parte header de la pagina.](https://github.com/AgredaLuis/gerich-restaurant/blob/main/src/assets/Home.png)
+![Imagen de la parte awards de la pagina.](https://github.com/AgredaLuis/gerich-restaurant/blob/main/src/assets/Awards.png)
+![Imagen de la parte contact de la pagina.](https://github.com/AgredaLuis/gerich-restaurant/blob/main/src/assets/Contact.png)
 
 
 
